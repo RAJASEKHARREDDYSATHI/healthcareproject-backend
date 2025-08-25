@@ -1,0 +1,17 @@
+klu\repository\AppointmentRepository.class
+klu\controller\AppointmentController.class
+klu\model\MenusManager.class
+klu\repository\UsersRepository.class
+klu\model\UsersManager.class
+klu\model\Roles.class
+klu\model\Appointment.class
+klu\model\JWTManager.class
+klu\model\EmailManager.class
+klu\model\Menus.class
+klu\AppointmentService.class
+klu\JobPortalApplication.class
+klu\ServletInitializer.class
+klu\repository\MenusRepository.class
+klu\controller\UsersController.class
+klu\model\Users.class
+klu\controller\MenusController.class
